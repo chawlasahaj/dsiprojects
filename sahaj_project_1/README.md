@@ -53,3 +53,4 @@ Based on extensive analysis on the relationship between participation and scores
 ### Recommendations
 
 Based on data-driven insight, this analysis has narrowed down to 7 target states which do not have an existing affiliation with either SAT or ACT.
+![US map](https://github.com/chawlasahaj/dsiprojects/blob/main/sahaj_project_1/images/Screenshot%202020-11-06%20at%204.23.20%20PM.png)
