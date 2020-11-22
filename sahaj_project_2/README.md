@@ -1,4 +1,4 @@
-# Ames Housing Data
+# Predictive Modelling: Housing prices 
 
 For this project I will be playing the part of an independent data analyst who is conducting research on housing prices in order to guide seller listings. 
 
