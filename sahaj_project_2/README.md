@@ -32,7 +32,7 @@ Through extensive data analysis, I have come to a model that is able to account 
 
 ### Here are the top 5 features (ranked in order) for sellers to consider when listing houses, in order to achieve the highest selling price -
 
-Combination of overall quality and living area 
+Combination of overall quality and living area  
 Basement Square Footage              
 Lot Size                                        
 Excellent Kitchen Quality                
