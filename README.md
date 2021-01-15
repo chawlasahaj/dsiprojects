@@ -1,6 +1,6 @@
 # Sahaj Chawla - Data Science Portfolio
 
-Hi there! As part of my ongoing course at General Assembly Singapore, I will be working on 5 projects using Python to create predictive analytics data models, using supervised and unsupervised machine learning algorithms.  
+Hi there! As part of my ongoing course at General Assembly Singapore, I have worked on 5 projects using Python to create predictive analytics data models, using supervised and unsupervised machine learning algorithms.  
 
 All my projects will be created using Jupyter technical notebooks for coding, and here is what I have completed so far -
 
@@ -12,7 +12,7 @@ Project 3- Web Scraping, NLP and classification of Reddit posts (including a 'bo
 
 Project 4 - Time-series analysis & CARTS models to predict disease spread. The model was effective in predicting the spread of West Nile Virus in Chicago with an AUC-ROC score of 0.79.  
 
-Project 5 (WIP)- eCommerce customer segmentation, lifetime value and sales prediction.  
+Project 5 (WIP)- eCommerce customer segmentation, lifetime value, churn, and customer satisfaction prediction.  
 
 
 If you'd like to learn more about these projects and connect professionally, please feel free to add me on LinkedIn - https://www.linkedin.com/in/sahajchawla/ 
