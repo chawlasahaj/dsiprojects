@@ -12,7 +12,7 @@ Project 3- Web Scraping, NLP and classification of Reddit posts (including a 'bo
 
 Project 4 - Time-series analysis & CARTS models to predict disease spread. The model was effective in predicting the spread of West Nile Virus in Chicago with an AUC-ROC score of 0.79.  
 
-Project 5 (WIP)- eCommerce customer segmentation, lifetime value, churn, and customer satisfaction prediction.  
+Project 5 (Capstone)- Various data query, visualization and machine learning methods applied on a large eCommerce dataset to analyze and predict - customer segmentation, lifetime value, churn risk, customer satisfaction, product recommendations.  
 
 
 If you'd like to learn more about these projects and connect professionally, please feel free to add me on LinkedIn - https://www.linkedin.com/in/sahajchawla/ 
