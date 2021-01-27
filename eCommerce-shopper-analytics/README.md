@@ -1,4 +1,5 @@
-# Brazilian e-Commerce Data Analysis
+# Understanding online shopper behaviour with machine learning
+
 
 ## Table of contents
 1. [About Olist (Business understanding)](#business_understanding)
@@ -23,11 +24,10 @@ This is real commercial data which has been anonymised and can be found *[here](
 
 Through this dataset, I have used various machine learning methods for the following problems -  
 
-1) Segmentation - How can customers be clustered based on their purchase habits?   
-2) Customer Lifetime Value - How much will a customer bring in future revenue?  
-3) Churn - Which customers are likely to remain or not remain with Olist?  
-4) Recommendations - How can we increase user basket size by engaging users more with a recommendation system?  
-5) Customer reviews - Can we predict customer review scores based on the various features?
+1) Segmentation - How can customers be clustered based on their purchase habits? *(Predicted with 93% accuracy) *  
+2) Customer Lifetime Value & Churn - How much will a customer bring in future revenue and are they likely to remain with Olist?   *(Within 6% prediction error) *     
+3) Customer reviews - Can we predict customer review scores? *(Predicted with 94% accuracy) * 
+4) Recommendations - How can we increase user basket size by engaging users more with a recommendation system?  *(Mean average precision - 1.01) *  
 
 
 ## Approach <a name="approach"></a>
