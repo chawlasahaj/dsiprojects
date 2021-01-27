@@ -48,10 +48,10 @@ A macro level view of the learnings can be found in the Tableau visualization *[
 
 ## Key Insights
 ### Platform-level
-![Order volume](https://imgur.com/ipwdrX9)
+![Order volume](https://i.imgur.com/ipwdrX9.png)
 *Order volume peaks in August, sees a sharp decline and picks up just before Black Friday.*
 
-![Product categories](https://imgur.com/L8UMhG9)
+![Product categories](https://i.imgur.com/L8UMhG9)
 *Bed/bath/table is the biggest category by volume.*
 
 ![Shopping times](https://imgur.com/E4TOK9I)
