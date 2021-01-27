@@ -9,10 +9,10 @@
 6. [References and links](#references)
 
 ## About Olist <a name="business_understanding"></a>
-Olist is the largest online department store in Brazil. It was founded in 2015 and is based in Curitiba, Brazil. It connects small businesses from all over Brazil to channels and those merchants are able to sell their products through the Olist Store and ship them directly to the customers using Olist logistics partners. After a customer purchases the product from Olist Store a seller gets notified to fulfil the order. Once the customer receives the product, or the estimated delivery date is due, the customer gets a satisfaction survey by email where he can give a note for the purchase experience and write down some comments.
+Olist is the largest online department store in Brazil. It connects small businesses from all over country and enables them to sell products directly to the customers using Olist logistics partners. 
 
 ## Data <a name="data"></a>
-The dataset has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. Its features allow viewing an order from multiple dimensions: from order status, price, payment and freight performance to customer location, product attributes and finally reviews written by customers. There is also a geolocation dataset that relates Brazilian zip codes to lat/lng coordinates.
+The dataset contains 110k orders from 2016 to 2018 made at multiple marketplaces in Brazil. It allows for viewing an order from multiple dimensions: from order status, price, payment and freight performance to customer location, product attributes and finally reviews written by customers. There is also a geolocation dataset that relates Brazilian zip codes to lat/lng coordinates.
 
 This is real commercial data which has been anonymised and can be found *[here](https://www.kaggle.com/olistbr/brazilian-ecommerce)* in Kaggle.
 
