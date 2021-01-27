@@ -12,12 +12,12 @@
 Olist is the largest online department store in Brazil. It was founded in 2015 and is based in Curitiba, Brazil. It connects small businesses from all over Brazil to channels and those merchants are able to sell their products through the Olist Store and ship them directly to the customers using Olist logistics partners. After a customer purchases the product from Olist Store a seller gets notified to fulfil the order. Once the customer receives the product, or the estimated delivery date is due, the customer gets a satisfaction survey by email where he can give a note for the purchase experience and write down some comments.
 
 ## Data <a name="data"></a>
-This is a Brazilian ecommerce public dataset of orders made at Olist Store. The dataset has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. Its features allow viewing an order from multiple dimensions: from order status, price, payment and freight performance to customer location, product attributes and finally reviews written by customers. There is also a geolocation dataset that relates Brazilian zip codes to lat/lng coordinates.
+The dataset has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. Its features allow viewing an order from multiple dimensions: from order status, price, payment and freight performance to customer location, product attributes and finally reviews written by customers. There is also a geolocation dataset that relates Brazilian zip codes to lat/lng coordinates.
 
 This is real commercial data which has been anonymised and can be found *[here](https://www.kaggle.com/olistbr/brazilian-ecommerce)* in Kaggle.
 
 ![Data Structure](https://i.imgur.com/HRhd2Y0.png)
-*Data model as provided in Kaggle*
+*Data schema*
 
 ## Business objectives <a name="objectives"></a>
 
@@ -31,11 +31,11 @@ Through this dataset, I have used various machine learning methods for the follo
 
 
 ## Approach <a name="approach"></a>
-Success criteria for this analysis stage is to answer the above questions with the available data and information. To archive this the following steps and techniques are applied:
+
 - Data import and wrangling
 - Exploratory data analysis
 - Time series visualization
-- RFM Analysis - with K-means unstructured machine learning
+- RFM Analysis - with K-means unsupervised machine learning
 - RFM Analysis - with lifetimes library and probabalistic BG/NBD Modelling
 - Multi-class predictive classification of reviews (positive/negative)
 - Product recommendation engine 
@@ -46,5 +46,22 @@ Success criteria for this analysis stage is to answer the above questions with t
 A macro level view of the learnings can be found in the Tableau visualization *[here](https://public.tableau.com/views/OlisteCommerceinBrazil/Story1?:language=en&:display_count=y&:origin=viz_share_link)*.
 
 
-### Main conclusion summary
+## Key Insights
+### Platform-level
+![Order volume](https://imgur.com/ipwdrX9)
+*Order volume peaks in August, sees a sharp decline and picks up just before Black Friday.*
 
+![Product categories](https://imgur.com/L8UMhG9)
+*Bed/bath/table is the biggest category by volume.*
+
+![Shopping times](https://imgur.com/E4TOK9I)
+*Tuesdays and Thursdays are the most popular days for online shopping, and afternoon (12pm-4pm) is peak shopping time in Brazil.*
+
+![Category-level Shopping times](https://imgur.com/nvlbnQj)
+*Sales of automotive category is very popular on Wednesday mornings and computer accessories on Thursday afternoon.*
+
+![Segment differences](https://imgur.com/OTyAqPL)
+*After RFM analysis using unstructured machine learning*
+
+![Stark difference in reviews](https://imgur.com/VuIsfTT)
+*There is a need to understand drivers of review scores*
