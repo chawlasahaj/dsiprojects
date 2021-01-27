@@ -25,9 +25,9 @@ This is real commercial data which has been anonymised and can be found *[here](
 Through this dataset, I have used various machine learning methods for the following problems -  
 
 1) Segmentation - How can customers be clustered based on their purchase habits? **(Predicted with 93% accuracy)**  
-2) Customer Lifetime Value & Churn - How much will a customer bring in future revenue and are they likely to remain with Olist?   **(Within 6% prediction error) **     
-3) Customer reviews - Can we predict customer review scores? **(Predicted with 94% accuracy) ** 
-4) Recommendations - How can we increase user basket size by engaging users more with a recommendation system?  **(Mean average precision - 1.01) ** 
+2) Customer Lifetime Value & Churn - How much will a customer bring in future revenue and are they likely to remain with Olist?  **(Within 6% prediction error)**      
+3) Customer reviews - Can we predict customer review scores? **(Predicted with 94% accuracy)** 
+4) Recommendations - How can we increase user basket size by engaging users more with a recommendation system?  **(Mean average precision - 1.01)** 
 
 
 ## Approach <a name="approach"></a>
