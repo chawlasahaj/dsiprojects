@@ -49,24 +49,30 @@ A macro level view of the learnings can be found in the Tableau visualization *[
 ## Key Insights
 ### Platform-level
 ![Order volume](https://i.imgur.com/ipwdrX9.png)
+
 Order volume peaks in August, sees a sharp decline and picks up just before Black Friday.  
 
 
 ![Product categories](https://i.imgur.com/L8UMhG9.png)
+
 Bed/bath/table is the biggest category by volume.  
 
 
 ![Shopping times](https://i.imgur.com/E4TOK9I.png)
+
 Tuesdays and Thursdays are the most popular days for online shopping, and afternoon (12pm-4pm) is peak shopping time in Brazil.  
 
 ![Category-level Shopping times](https://i.imgur.com/nvlbnQj.png)
+
 Sales of automotive category is very popular on Wednesday mornings and computer accessories on Thursday afternoon.  
 
 
 ![Segment differences](https://i.imgur.com/OTyAqPL.png)
+
 Segments derived from RFM analysis using unstructured machine learning. 
 
 ![Stark difference in reviews](https://i.imgur.com/VuIsfTT.png)
+
 There is a need to further understand drivers of review scores by segment - to understand the why behind this learning. 
 
 ## Please feel free to look at the code for more details on how these figures were derived - as well as the machine learning workflow. 
